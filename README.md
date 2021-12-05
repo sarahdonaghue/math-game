@@ -17,3 +17,8 @@ You can reset the game at any time.
 There is a time limit.
 
 When the game is over, you will get a message saying "Game Over!" with your score.
+
+
+![mathgame1](https://user-images.githubusercontent.com/61514525/144752698-6237c90f-af4e-4162-8c0b-6d5d7dc6b4c1.png)
+
+![mathgame2](https://user-images.githubusercontent.com/61514525/144752700-1228b154-4543-4eb5-b0eb-9361c225bfad.png)
