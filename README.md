@@ -1,6 +1,6 @@
 # math-game
 
-This was created using HTML, CSS, and JavaScript.
+🚀 Technical Stack: HTML, CSS, JavaScript
 
 It is a Math Game that checks how well the users know their multiplication tables up to 10.
 
